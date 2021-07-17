@@ -7,7 +7,8 @@ namespace LineComputitionProblemUsingOOPs
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Line Computition Problem Using OOPs");
-            LIneLength.getCartesianPoint();
+            //LIneLength.getCartesianPoint();
+            LinesEqualOrNot.checkEquality();
             Console.ReadKey();
         }
     }
