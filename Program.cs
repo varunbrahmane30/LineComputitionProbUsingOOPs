@@ -8,7 +8,8 @@ namespace LineComputitionProblemUsingOOPs
         {
             Console.WriteLine("Welcome to Line Computition Problem Using OOPs");
             //LIneLength.getCartesianPoint();
-            LinesEqualOrNot.checkEquality();
+            //LinesEqualOrNot.checkEquality();
+            CheckEqualGreterLesser.checkEqulGreatLess();
             Console.ReadKey();
         }
     }
